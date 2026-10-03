@@ -1,0 +1,88 @@
+/*general body styling*/
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*header*/
+
+.header{
+    background-color: #1e3a5f;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+/*hero section*/
+
+.hero{
+    height: 400px;
+    background-image: url("images/\ leaf2\ \(1\).jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: black;
+    text-align: center;
+    padding-top: 100px;
+}
+
+/*about*/
+
+.about{
+    min-height: 300;
+    background-color: #e8f4f8;
+    background-image: url("images/Labonno.jpg.jpg");
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 300px;
+    padding: 60px;
+}
+
+/*service section*/
+
+.service{
+    background-color: #f5f5f5;
+    background-image: url("images/about.jpg.jpg;
+    background-repeat: repeat;
+    background-position: center;
+    background-size: 150px;
+    padding: 50px;
+    text-align: center;
+
+}
+
+/*Service boxes*/
+
+.service-box{
+    background-color: white;
+    width: 250px;
+    min-height: 150px;
+    display: inline-block;
+    margin: 15px;
+    padding: 25px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+
+}
+
+/*contact section*/
+
+.contact {
+    height: 350px;
+    background-color: #dff0d8;
+    background-image: url("images/contact.jpg");
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto;
+    padding: 50px;
+}
+
+/*footer*/
+
+
+.footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
